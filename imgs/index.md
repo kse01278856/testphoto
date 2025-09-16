@@ -1,9 +1,5 @@
 # 我的照片展示
 
-這是我的照片：
+點擊圖片可查看原始檔案：
 
-![照片描述](./p1.jpg)
-
-<div style="text-align: center;">
-  <img src="./p1.jpg" alt="測試照片" width="500">
-</div>
+[![測試照片](imgs/p1.jpg)](https://kse01278856.github.io/testphoto/imgs/p1.jpg)
